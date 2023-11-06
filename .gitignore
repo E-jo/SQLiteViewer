@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/SQLite Viewer/task/build/
+/SQLite Viewer/task/out/
+/SQLite Viewer/task/out/production/classes/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/
+/Topics/Processing strings/Find the first occurrence of the word  the/out/production/classes/
